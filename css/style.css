@@ -82,6 +82,7 @@ html {
     grid-template-columns: 1fr 5fr;
     align-items: center;
     grid-row: 1;
+    column-gap: 10px;
     align-content: flex-start;
 }
 
@@ -95,6 +96,7 @@ html {
     grid-row: 2 / 3;
     margin: 5px 10px;
     gap: 50px;
+    font-weight: 500;
 }
 
 .top-menu,
